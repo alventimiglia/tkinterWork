@@ -1,0 +1,17 @@
+quiz_data = [
+    {
+        "question": "What is the capital of France?",
+        "choices": ["Paris", "London", "Oslo", "Berlin"],
+        "answer": "Paris"
+    },
+    {
+        "question": "What is the largest planet?",
+        "choices": ["Saturn", "Jupiter", "Mars", "Earth"],
+        "answer": "Jupiter"
+    },
+    {
+        "question": "What is the chemical symbol for gold?",
+        "choices": ["Go", "Ag", "Au", "Gd"],
+        "answer": "Au"
+    }
+]
