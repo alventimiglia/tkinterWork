@@ -13,3 +13,7 @@ This is an app that allows you to create and review flashcards. It utilizes tkin
 ## quizApp
 
 This is a relatively simple GUI that is utilizing a simple multiple choice quiz style. This project takes the principles from some of the earlier projects and builds upon it with tkinter.
+
+## tictactoeGUI
+
+This is an enhancement on a tic-tac-toe game the would normally be built for the CLI. There is the game component, the GUI component, as well as an alert component.
