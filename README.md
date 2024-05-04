@@ -17,3 +17,7 @@ This is a relatively simple GUI that is utilizing a simple multiple choice quiz 
 ## tictactoeGUI
 
 This is an enhancement on a tic-tac-toe game the would normally be built for the CLI. There is the game component, the GUI component, as well as an alert component.
+
+## whiteboard
+
+This is a project that creates a fun whiteboard using tkinter, but really highlights the use of ttkbootstrap.
